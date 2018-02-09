@@ -1,4 +1,3 @@
-Assignment 1: Deploying webserver
 Current results are in results.md
 
 The purpose of the assignment is to familiarize you with the automatic build, containers, and cloud computing
