@@ -7,7 +7,7 @@ Create repo yougithubid/webserver
 
 Add Dockerfile, for example as the one in this repo
 
-Add index.html with your name in it
+Add index.html w/ name
 
 Create automatic build
 
